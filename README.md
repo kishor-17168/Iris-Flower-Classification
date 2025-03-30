@@ -62,9 +62,9 @@ KNN is a **supervised machine learning algorithm** that classifies data points b
 - **Support: The number of actual samples per class in the test set.**
 
 ## Future Improvements & Learnings 🚀
-✔️ Test other classification models (e.g., Decision Trees, SVM)
-✔️ Perform hyperparameter tuning for better performance
-✔️ Deploy the model using Flask or Streamlit
+- ✔️ Test other classification models (e.g., Decision Trees, SVM)
+- ✔️ Perform hyperparameter tuning for better performance
+- ✔️ Deploy the model using Flask or Streamlit
 
 ## Author
 **Kishor Marandy**
