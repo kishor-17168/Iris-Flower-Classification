@@ -13,6 +13,10 @@ This project aims to classify iris flowers into one of three species—**Setosa,
 - ML with IRIS data.ipynb
 - Iris.csv
 
+## Prerequisites:
+- Google Colab
+- Required libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, plotly
+
 ## 📂 Dataset Information
 The dataset contains **150 samples** of iris flowers with the following features:
 - **Sepal Length (cm)**
@@ -56,4 +60,12 @@ KNN is a **supervised machine learning algorithm** that classifies data points b
 - **Recall: The proportion of correctly predicted instances out of all actual instances. A recall of 1.00 means no false negatives.**
 - **F1-Score: A balance between precision and recall. Since both are 1.00, the F1-score is also perfect.**
 - **Support: The number of actual samples per class in the test set.**
+
+## Future Improvements & Learnings 🚀
+✔️ Test other classification models (e.g., Decision Trees, SVM)
+✔️ Perform hyperparameter tuning for better performance
+✔️ Deploy the model using Flask or Streamlit
+
+## Author
+**Kishor Marandy**
 
