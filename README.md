@@ -50,6 +50,7 @@ KNN is a **supervised machine learning algorithm** that classifies data points b
 7. **Evaluate the model** using accuracy, confusion matrix, and classification report.
 
 ## 🚀 Results & Evaluation
+![Iris Flower Classification](https://github.com/kishor-17168/Iris-Flower-Classification/blob/main/Screenshot%202025-03-30%20205127.png?raw=true)
 - **Model Accuracy:** 100.00%
 - **Precision, Recall, and F1-score:** Perfect 1.00 for all species.
 - **Confusion Matrix:**
